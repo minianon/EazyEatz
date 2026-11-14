@@ -11,7 +11,7 @@ For the big picture see the [High-Level Design](hld.md).
 | `popular` | Popular dishes as cards (`.box`) |
 | `gallery` | Food photos |
 | `review` | Customer reviews |
-| `order` | Order form: name, e-mail, phone, food name, quantity / address fields, "order now" |
+| `order` | Order form: name, e-mail, phone number, food name, address, "order now" |
 | `scroll-top` | Back-to-top button |
 
 ## 2. Script (`script.js`)
